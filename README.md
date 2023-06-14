@@ -1,8 +1,8 @@
 ### Hi! I'am Daniel a Developer from Brazil 👋
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielneto10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<div align="left">
+  <a href="https://github.com/danielneto10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielneto10&layout=compact&langs_count=5&theme=github_dark"/>
+  </a>
 </div>
 
 ## Technologies 🚀
